@@ -1,0 +1,15 @@
+body{
+    background-color: #eef2f7;
+}
+
+.card{
+    border-radius: 16px;
+}
+
+.card-header{
+    border-radius: 16px 16px 0 0;
+}
+
+.list-group-item span{
+    cursor: pointer;
+}
